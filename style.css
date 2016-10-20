@@ -1,0 +1,17 @@
+body{
+	background-color: #ffffff;
+}
+.navbar  {
+	background-color:#280403 
+}
+
+.item img {
+	height: 500px;
+	
+}
+
+.carousel-caption {  
+	font-family: 'Pacifico', cursive;
+	font-size: 30PX;
+
+} 
