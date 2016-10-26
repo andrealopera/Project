@@ -8,6 +8,7 @@
     <title>Mediterraneo</title>
 <!-- Bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <meta name="robots" content="noindex, nofollow">
 <!-- my style -->
     <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet"> 
     <link rel="stylesheet" type="text/css" href="style.css">
@@ -49,10 +50,10 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Change language <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img class="langue" src="uk1.png" alt="active language english">Change language <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#"><img class="img-responsive" src="spanish.png" alt="spanish flag for language - Bandera de españa para idioma"> Spanish</a></li>
-            <li><a href="#"><img class="img-responsive" src="france.png" alt="French flag for language - Drapeau français pour langue"> French</a></li>
+            <li class="langue"><a href="#"><img class="img-responsive" src="spanish.png" alt="spanish flag for language - Bandera de españa para idioma"> Spanish</a></li>
+            <li class="langue"><a href="#"><img class="img-responsive" src="france.png" alt="French flag for language - Drapeau français pour langue"> French</a></li>
           </ul>
         </li>
       </ul>
