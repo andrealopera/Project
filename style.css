@@ -2,7 +2,8 @@ body{
 	background-color: #ffffff;
 }
 .navbar  {
-	background-color:#ffffff 
+	background-color:#ffffff ;
+	font-family: 'Coming Soon', cursive;
 }
 
 .img-responsive img {
@@ -12,8 +13,30 @@ body{
 
 
 
-.carousel-caption {  
+#slide1 {  
 	font-family: 'Pacifico', cursive;
-	
+	color: #4F0018
+	vertical
 
 } 
+
+#slide2 {  
+	font-family: 'Pacifico', cursive;
+	color: #ffffff
+	vertical
+
+} 
+
+.marketing {
+
+	font-family: 'Coming Soon', cursive;
+}
+
+.imggallery {
+	display: none
+}
+
+.hshow:hover + .imggallery {
+	display: block
+}
+
