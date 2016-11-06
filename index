@@ -33,7 +33,7 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="navbar">
       <ul class="nav navbar-nav nav-jus">
-        <li class="active"><a href="#">About us<span class="sr-only">(current)</span></a></li>
+        <li class="active"><a href="#AUS">About us<span class="sr-only">(current)</span></a></li>
         <li><a href="#">Shipping policy</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Products<span class="caret"></span></a>
@@ -72,7 +72,7 @@
       <div class="carousel-inner" role="listbox">
       <!-- Carousel size image 1350 * 450px -->
         <div class="item active">
-          <img class="img-responsive" class="first-slide" class="shoes" src="fancyshoes.png" alt="First slide">
+          <img class="img-responsive" class="first-slide" class="shoes" src="ShoesFashionFS.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Mediterraneo</h1>
@@ -92,7 +92,7 @@
           </div>
         </div> -->
         <div class="item">
-          <img class="img-responsive" class="third-slide" class="shoes" src="handmade1.png" alt="Third slide">
+          <img class="img-responsive" class="third-slide" class="shoes" src="untitled1.png" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Made with love</h1>
@@ -147,7 +147,7 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">About us<span class="text-muted"></span></h2>
+          <h2 class="featurette-heading" id="AUS">About us<span class="text-muted"></span></h2>
           <p class="lead">All of our products are handmade in Colombia by qualified artisans with the most hight quality leathers. <br>Our artisans are head of families that do a great work transforming our desings into unique pieces of art!</br>Since our products are handmade you will always have an unique product</p>
         </div>
         <div class="col-md-5">

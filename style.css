@@ -2,20 +2,18 @@ body{
 	background-color: #ffffff;
 }
 .navbar  {
-	background-color:#280403 
+	background-color:#ffffff 
 }
 
-.item img {
-	height: 500px;
+.img-responsive img {
+	height: 100%;
 	
 }
+
+
 
 .carousel-caption {  
 	font-family: 'Pacifico', cursive;
 	
 
 } 
-
-.langue {
-	display: inline-block;
-}
